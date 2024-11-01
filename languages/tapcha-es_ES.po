@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tapcha\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-04 21:38+0000\n"
+"PO-Revision-Date: 2020-02-04 21:39+0000\n"
+"Last-Translator: tapcha <tapcha@tapcha.co.uk>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.1.1"
+
+# admin.php
+msgid "Tapcha"
+msgstr "Tapcha"
+
+msgid "Credentials"
+msgstr "Cartas credenciales"
+
+msgid "Settings"
+msgstr "Configuraciones"
+
+# admin.php & field-admin-key.php
+msgid "Admin Key"
+msgstr "Clave de administrador"
+
+# admin.php & field-site-key.php
+msgid "Site Key"
+msgstr "Clave del sitio"
+
+# section-credentials.php
+msgid ""
+"You can obtain your site key and admin key by visiting %s and signing up"
+msgstr ""
+"Puede obtener la clave de su sitio y la clave de administrador visitando %s "
+"y registrándose"
+
+# admin-page.php
+msgid "Tapcha Plugin Settings"
+msgstr "Configuración del complemento Tapcha"
+
+# admin-page.php
+msgid "Statistics"
+msgstr "Estadísticas"
+
+# admin-page.php
+msgid "Success rate:"
+msgstr "Tasa de éxito:"
+
+# admin-page.php
+msgid "Response rate:"
+msgstr "Tasa de respuesta:"
+
+# admin-page.php
+msgid "Number of challenges:"
+msgstr "Número de desafíos:"
+
+# admin-page.php
+msgid "Number of responses:"
+msgstr "Cantidad de respuestas:"
+
+msgid "Close"
+msgstr "Cerca"
+
+msgid "Passed Tapcha test!"
+msgstr "¡Pasó la prueba de Tapcha!"
+
+msgid "Failed Tapcha test!"
+msgstr "¡Prueba fallida de Tapcha!"
+
+msgid "Failed Tapcha test! Invalid input."
+msgstr "¡Prueba fallida de Tapcha! Entrada inválida."
+
+msgid "This challenge has already been consumed"
+msgstr "Este desafío ya ha sido consumido"
+
+msgid "The challenge id is invalid"
+msgstr "La identificación del desafío no es válida."
+
+msgid "The answer is in the wrong format"
+msgstr "La respuesta está en el formato incorrecto."
+
+# shortcode.php & contactform7.php
+msgid "Tapcha instructions"
+msgstr "Instrucciones Tapcha"
+
+msgid "Reload"
+msgstr "Recargar"
+
+msgid "Invalid site key!"
+msgstr "Clave de sitio no válida"
+
+msgid "Error! Please contact the site administrator."
+msgstr "¡Error! Por favor contacte al administrador del sitio"

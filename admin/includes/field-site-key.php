@@ -1,0 +1,1 @@
+<input type="text" name="tapcha-site-key" id="tapcha-site-key" value="<?php echo esc_attr(get_option("tapcha-site-key")) ?>" placeholder="<?php echo __('Site Key', 'tapcha') ?>" />

@@ -1,0 +1,90 @@
+# admin.php
+msgid "Tapcha"
+msgstr ""
+
+# admin.php
+msgid "Credentials"
+msgstr ""
+
+# admin.php
+msgid "Settings"
+msgstr ""
+
+# admin.php & field-admin-key.php
+msgid "Admin Key"
+msgstr ""
+
+# admin.php & field-site-key.php
+msgid "Site Key"
+msgstr ""
+
+# section-credentials.php
+msgid "You can obtain your site key and admin key by visiting %s and signing up"
+msgstr ""
+
+# admin-page.php
+msgid "Tapcha Plugin Settings"
+msgstr ""
+
+# admin-page.php
+msgid "Statistics"
+msgstr ""
+
+# admin-page.php
+msgid "Success rate:"
+msgstr ""
+
+# admin-page.php
+msgid "Response rate:"
+msgstr ""
+
+# admin-page.php
+msgid "Number of challenges:"
+msgstr ""
+
+# admin-page.php
+msgid "Number of responses:"
+msgstr ""
+
+# shortcode.php
+msgid "Close"
+msgstr ""
+
+# shortcode.php
+msgid "Passed Tapcha test!"
+msgstr ""
+
+# shortcode.php
+msgid "Failed Tapcha test!"
+msgstr ""
+
+msgid "Failed Tapcha test! Invalid input."
+msgstr ""
+
+# shortcode.php
+msgid "This challenge has already been consumed"
+msgstr ""
+
+# shortcode.php
+msgid "The challenge id is invalid"
+msgstr ""
+
+# shortcode.php
+msgid "The answer is in the wrong format"
+msgstr ""
+
+# shortcode.php & contactform7.php
+msgid "Tapcha instructions"
+msgstr ""
+
+# shortcode.php & contactform7.php
+msgid "Reload"
+msgstr ""
+
+# shortcode.php & contactform7.php
+msgid "Invalid site key!"
+msgstr ""
+
+# shortcode.php & contactform7.php
+msgid "Error! Please contact the site administrator."
+msgstr ""

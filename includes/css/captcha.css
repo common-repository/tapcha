@@ -1,0 +1,22 @@
+.form-signin {
+    width: 330px;
+    max-width: 330px;
+}
+#image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
+#reload {
+    margin-top: 16px;
+}
+#submit {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+#tapcha-loading {
+    display: block;
+    margin: 16px auto;
+    width: 4rem;
+    height: 4rem;
+}
